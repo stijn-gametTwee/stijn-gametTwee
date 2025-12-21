@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I’m @Stijn
+- 🛠️ I can Luau, Node.js
+- 🌱 I’m currently learning C++
+- ⚡ Fun fact: I'm a student at Digital Arts & Enternainment Howest
 
 <!--
 **stijn-gametTwee/stijn-gametTwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
